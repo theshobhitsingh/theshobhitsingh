@@ -32,7 +32,6 @@
 <p align="left">
     <a href="https://linkedin.com/in/shobhit-singh-the-programmer" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-singh-the-programmer" height="30" width="40" />
-        <br>
     </a>
     <a href="https://www.hackerrank.com/shobhitsingh2103" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shobhit_singh_2103" height="30" width="40" />
