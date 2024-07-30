@@ -2,7 +2,7 @@
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="1000" />
 </p>
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛𝚎𝚎𝚎/><br>
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
    ✌𝓘 𝓪𝓶 𝓢𝓱𝓸𝓫𝓱𝓲𝓽 ✌
 </h1>
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
