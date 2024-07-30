@@ -18,11 +18,11 @@
     <li>🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙍𝙚𝙖𝙘𝙩𝙅𝙎 | 𝙉𝙤𝙙𝙚.𝙟𝙨 | 𝙀𝙭𝙥𝙧𝙚𝙨𝙨.𝙟𝙨</li>
     <li>🤝 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙘𝙤𝙙𝙚</li>
     <li>🌍 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙝𝙚𝙡𝙥 𝙬𝙞𝙩𝙝 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</li>
-    <li>🚀 𝘼𝙡𝙡 𝙤𝙛 𝙢𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙖𝙩<a href="https://github.com/theshobhitsingh">GitHub</a></li>
+    <li>🚀 𝘼𝙡𝙡 𝙤𝙛 𝙢𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙖𝙩 <a href="https://github.com/theshobhitsingh">GitHub</a></li>
     <li>♾️ 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 <a href="https://leetcode.com/u/shobhit_singh_leetcode/">LeetCode</a></li>
     <li>💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉</li>
     <li>📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 𝙩𝙝𝙚𝙨𝙝𝙤𝙗𝙝𝙞𝙩𝙩@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢</li>
-    <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨<a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">LinkedIn</a></li>
+    <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">LinkedIn</a></li>
     <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙗𝙤𝙤𝙠𝙨</li>
 </ul>
 
