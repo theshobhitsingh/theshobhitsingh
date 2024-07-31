@@ -8,7 +8,6 @@
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐀 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚, 𝐰𝐡𝐞𝐫𝐞 𝐦𝐲 𝐥𝐨𝐯𝐞 𝐟𝐨𝐫 𝐜𝐨𝐝𝐢𝐧𝐠 𝐦𝐞𝐞𝐭𝐬 𝐚 𝐝𝐞𝐞𝐩 𝐦𝐚𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐃𝐒𝐀).
 </h3>
-
 <p align="center">
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Welcome Image" width="400" height="300">
 </p>
@@ -71,7 +70,12 @@
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
+</a>
+
     </div>
+
 </p>
 <p align="left">
     <b>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀:</b>
@@ -89,16 +93,18 @@
 </b>
     <br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/> </a>
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/>
+</a>
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
     </div>
 </p>
-
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    MY GIƬΉЦB ƧƬΛƬƧ:
