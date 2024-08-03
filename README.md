@@ -21,7 +21,7 @@
     <li>♾️ 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 <a href="https://leetcode.com/u/shobhit_singh_leetcode/">LeetCode</a></li>
     <li>💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉</li>
     <li>📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 𝙩𝙝𝙚𝙨𝙝𝙤𝙗𝙝𝙞𝙩𝙩@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢</li>
-    <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">LinkedIn</a></li>
+    <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 ＆ 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">LinkedIn</a></li>
     <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙗𝙤𝙤𝙠𝙨</li>
 </ul>
 
