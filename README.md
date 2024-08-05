@@ -110,3 +110,20 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=radical" />
 </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
+   𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
+</h3>
+
+<p align="center" style="font-size: 2rem; color: #333;">
+    𝚈𝚘𝚞𝚛 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚖𝚎𝚊𝚗𝚜 𝚊 𝚕𝚘𝚝! 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚊𝚗𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝.
+</p>
+
+<div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/theshobhitsingh" style="text-decoration: none; background-color: #0e75b6; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        ᐯ丨丂丨ㄒ 爪ㄚ Ꮆ丨ㄒ卄ㄩ乃
+    </a>
+</div>
