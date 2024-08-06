@@ -1,6 +1,9 @@
-<p align="center">
+<a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" title="LinkedIn" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shobhit%20Singh&fontSize=80&color=0:8871e5,100:b678c4&stroke=b678c4"/>
+</a>
+<!-- <p align="center">
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="1000" />
-</p>
+</p> -->
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
    ✌丨   卂爪    丂卄ㄖ乃卄丨ㄒ   ✌
