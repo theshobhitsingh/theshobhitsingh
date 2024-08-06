@@ -6,7 +6,7 @@
 </p> -->
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
-   ✌丨   卂爪    丂卄ㄖ乃卄丨ㄒ   ✌
+   ✌丨  卂爪   丂卄ㄖ乃卄丨ㄒ   ✌
 </h1>
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐀 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚, 𝐰𝐡𝐞𝐫𝐞 𝐦𝐲 𝐥𝐨𝐯𝐞 𝐟𝐨𝐫 𝐜𝐨𝐝𝐢𝐧𝐠 𝐦𝐞𝐞𝐭𝐬 𝐚 𝐝𝐞𝐞𝐩 𝐦𝐚𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐃𝐒𝐀).
@@ -45,7 +45,9 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shobhit_singh_gfg" height="30" width="40" />
     </a>
 </p>
-
+<p align="center">
+    <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="1000" />
+</p>
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    Ｌａｎｇｕａｇｅｓ ａｎｄ Ｔｅｃｈｎｏｌｏｇｉｅｓ
 </h3>
