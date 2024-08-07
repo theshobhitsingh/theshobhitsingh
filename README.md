@@ -115,6 +115,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=radical" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="theshobhitsingh github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=tokyonight&theme=icegray&border_radius=8" alt="theshobhitsingh GitHub Streak" />
+</p> -->
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
