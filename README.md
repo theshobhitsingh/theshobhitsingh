@@ -49,7 +49,7 @@
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
 </p>
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-   Ｌａｎｇｕａｇｅｓ ａｎｄ Ｔｅｃｈｎｏｌｏｇｉｅｓ
+   Ｌａｎｇｕａｇｅｓ ａｎｄ Ｔｅｃｈｎｏｌｏｇｉｅｓ<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 </h3>
 <p align="left">
     <b>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:</b>
