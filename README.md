@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shobhit_singh_leetcode/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" width="600" style="border: 10px solid rgba(0, 255, 255, 0.5); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
+    <img src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" width="600" height = "350" style="border: 10px solid rgba(0, 255, 255, 0.5); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
   </a>
 </p>
 
