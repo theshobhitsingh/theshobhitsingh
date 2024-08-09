@@ -1,9 +1,13 @@
-<a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" title="LinkedIn" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shobhit%20Singh&fontSize=80&color=0:8871e5,100:b678c4&stroke=b678c4"/>
-</a>
-<!-- <p align="center">
-    <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="1000" />
-</p> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" title="LinkedIn" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shobhit%20Singh&fontSize=80&color=0:8871e5,100:b678c4&stroke=b678c4" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" width="600" style="border: 10px solid rgba(0, 255, 255, 0.5); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
+</p>
+
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />✌丨  卂爪   丂卄ㄖ乃卄丨ㄒ   ✌<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
