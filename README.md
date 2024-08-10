@@ -11,9 +11,18 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shobhit_singh_leetcode/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" width="600" height = "350" style="border: 10px solid rgba(0, 255, 255, 0.5); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
+    <img 
+      src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" 
+      alt="LeetCode Card" 
+      width="900" 
+      height="400" 
+      style="border: 10px solid #00FFFF; border-radius: 10px;" 
+    />
   </a>
 </p>
+
+
+
 
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
