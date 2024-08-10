@@ -198,18 +198,24 @@
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    MY GIƬΉЦB ƧƬΛƬƧ:
 </h3>
+
 <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=radical" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img height="300em" width="500em" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" />
+    <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" />
+  </div>
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="theshobhitsingh github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=tokyonight&theme=icegray&border_radius=8" alt="theshobhitsingh GitHub Streak" />
-</p> -->
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="theshobhitsingh github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=tokyonight&theme=icegray&border_radius=8" alt="theshobhitsingh GitHub Streak" />
+</p> 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p> -->
 
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
    𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
