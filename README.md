@@ -60,9 +60,66 @@
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
 </p>
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-   Ｌａｎｇｕａｇｅｓ ａｎｄ Ｔｅｃｈｎｏｌｏｇｉｅｓ<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 </h3>
-<p align="left">
+
+<table>
+  <tr>
+    <th>Ｃａｔｅｇｏｒｉｅｓ</th>
+    <th>Ｓｋｉｌｌｓ</th>
+  </tr>
+  <tr>
+    <td><strong>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="Vite" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="left">
     <b>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:</b>
     <br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -88,8 +145,9 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
         </a>
     </div>
-</p>
+</p> -->
 
+<!--
 <p align="left">
     <b>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</b>
     <br>
@@ -106,7 +164,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
 </a>
 </p>
-<p align="left">
+-->
+
+<!-- <p align="left">
     <b>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀:</b>
     <br>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -116,8 +176,8 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
         <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
     </div>
-</p>
-<p align="left">
+</p> -->
+<!-- <p align="left">
     <b>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 </b>
     <br>
@@ -133,7 +193,7 @@
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     </div>
-</p>
+</p> -->
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    MY GIƬΉЦB ƧƬΛƬƧ:
