@@ -199,16 +199,15 @@
    MY GIƬΉЦB ƧƬΛƬƧ:
 </h3>
 
-<p align="left">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img height="300em" width="500em" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" />
-    <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" />
-  </div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" />
+  <img height="300" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" />
+</div>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="theshobhitsingh github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=tokyonight&theme=icegray&border_radius=8" alt="theshobhitsingh GitHub Streak" />
