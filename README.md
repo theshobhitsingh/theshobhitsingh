@@ -40,7 +40,7 @@
 </ul>
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    𝕃𝕖𝕥'𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥:
+    𝕃𝕖𝕥' C𝕠𝕕𝕖, C𝕣𝕖𝕒𝕥𝕖 & C𝕠𝕟𝕟𝕖𝕔𝕥:
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/shobhit-singh-the-programmer" target="_blank" rel="noreferrer">
@@ -81,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</strong></td>
+    <td><strong>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
@@ -105,7 +105,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</strong></td>
+    <td><strong>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
@@ -195,26 +195,17 @@
     </div>
 </p> -->
 
-<h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<h3 align="center">
    MY GIƬΉЦB ƧƬΛƬƧ:
 </h3>
-
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img height="600" width="400" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" alt="GitHub Stats" />
   <img height="600" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" alt="GitHub Streaks" />
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Visitors" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="theshobhitsingh github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=tokyonight&theme=icegray&border_radius=8" alt="theshobhitsingh GitHub Streak" />
-</p> 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p> -->
 
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
    𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
