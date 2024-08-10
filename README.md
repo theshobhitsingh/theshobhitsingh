@@ -195,10 +195,10 @@
     </div>
 </p> -->
 
-<h3 align="center">
+<h3 align="center" style = "margin-bottom: 10px;">
    MY GIƬΉЦB ƧƬΛƬƧ:
 </h3>
-<div style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center; gap: 100px;">
   <img height="600" width="400" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" alt="GitHub Stats" />
   <img height="600" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" alt="GitHub Streaks" />
 </div>
