@@ -199,8 +199,10 @@
    MY GIƬΉЦB ƧƬΛƬƧ:
 </h3>
 
-  <img height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" />
-  <img height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" alt="GitHub Stats" />
+  <img height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" alt="GitHub Streaks" />
+</div>
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
