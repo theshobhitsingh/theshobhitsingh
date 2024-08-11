@@ -216,17 +216,14 @@
 
 ## MY GIƬΉЦB ƧƬΛƬƧ: 📊
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="GitHub Stats" />
-  <img height="300" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dark&hide_border=false" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="GitHub Streaks" />
-  <img height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Top Languages" />
-</div>
+| ![theshobhitsingh GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8) | ![theshobhitsingh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dark&hide_border=false&border_radius=8) |
+| -- | -- |
+| ![theshobhitsingh Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8) | <div style="text-align: center;"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=theshobhitsingh&icon=0&color=0" alt="visit counter" style="width: 200px; height: auto;" /></a></div> |
+| | |
 
-
-
-<p align="center" style="margin-top: 20px;">
+<!-- <p align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Visitors" />
-</p>
+</p> -->
 
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
    𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
