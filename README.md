@@ -33,7 +33,6 @@
 </p>
 
 
-
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />✌丨  卂爪   丂卄ㄖ乃卄丨ㄒ   ✌<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -55,29 +54,31 @@
     <li>💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉</li>
     <li>📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 𝙩𝙝𝙚𝙨𝙝𝙤𝙗𝙝𝙞𝙩𝙩@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢</li>
     <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 ＆ 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">LinkedIn</a></li>
-    <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙗𝙤𝙤𝙠𝙨</li>
+    <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨</li>
 </ul>
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    𝕃𝕖𝕥' C𝕠𝕕𝕖, C𝕣𝕖𝕒𝕥𝕖 & C𝕠𝕟𝕟𝕖𝕔𝕥:
+    𝕃𝕖𝕥' C𝕠𝕕𝕖, C𝕣𝕖𝕒𝕥𝕖 & C𝕠𝕟𝕟𝕖𝕔𝕥 🚀
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/shobhit-singh-the-programmer" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-singh-the-programmer" height="30" width="40" />
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/shobhitsingh2103" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shobhit_singh_2103" height="30" width="40" />
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.leetcode.com/shobhit_singh_leetcode" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shobhit_singh_leetcode" height="30" width="40" />
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="https://auth.geeksforgeeks.org/user/shobhit_singh_gfg" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shobhit_singh_gfg" height="30" width="40" />
     </a>
 </p>
+
 <p align="center">
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
 </p>
+
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 </h3>
@@ -90,50 +91,50 @@
   <tr>
     <td><strong>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="Vite" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="Vite" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
@@ -214,11 +215,12 @@
     </div>
 </p> -->
 
-## MY GIƬΉЦB ƧƬΛƬƧ: 📊
+##  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ
+
 
 | ![theshobhitsingh GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8) | ![theshobhitsingh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dark&hide_border=false&border_radius=8) |
 | -- | -- |
-| ![theshobhitsingh Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8) | <div style="text-align: center;"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=theshobhitsingh&icon=0&color=0" alt="visit counter" style="width: 200px; height: auto;" /></a></div> |
+| ![theshobhitsingh Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=8) | <div style="text-align: center;"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=theshobhitsingh&icon=0&color=0" alt="visit counter" style="width: 800px; height: auto;" /></a></div> |
 | | |
 
 <!-- <p align="center" style="margin-top: 20px;">
