@@ -214,13 +214,15 @@
     </div>
 </p> -->
 
-<h3 align="center" style = "margin-bottom: 10px;">
-   MY GIƬΉЦB ƧƬΛƬƧ:
-</h3>
-<div style="display: flex; justify-content: center; gap: 100px;">
-  <img height="600" width="400" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark" style="border-radius: 5px;" alt="GitHub Stats" />
-  <img height="600" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=highcontrast" style="border-radius: 5px;" alt="GitHub Streaks" />
+## MY GIƬΉЦB ƧƬΛƬƧ: 📊
+
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="GitHub Stats" />
+  <img height="300" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dark&hide_border=false" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="GitHub Streaks" />
+  <img height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Top Languages" />
 </div>
+
+
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Visitors" />
