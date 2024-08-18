@@ -44,7 +44,7 @@
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Welcome Image" width="400" height="300">
 </p>
 
-<ul>
+<!-- <ul>
     <li>🧑‍💻 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 𝙫𝙖𝙧𝙞𝙤𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </li>
     <li>🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙍𝙚𝙖𝙘𝙩𝐉𝐒 | 𝙉𝙤𝙙𝙚𝐉𝐒 | 𝙀𝙭𝙥𝙧𝙚𝙨𝙨𝐉𝐒 </li>
     <li>🤝 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝘾𝙤𝙙𝙚 </li>
@@ -55,7 +55,28 @@
     <li>📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 𝙩𝙝𝙚𝙨𝙝𝙤𝙗𝙝𝙞𝙩𝙩@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 </li>
     <li>📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 ＆ 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/">𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗</a></li>
     <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨 </li>
-</ul>
+</ul> -->
+
+💠 **I’m currently working on**: Various exciting projects.
+
+💠 **I’m currently learning**: ReactJS | NodeJS | ExpressJS.
+
+💠 **I’m looking to collaborate**: On any coding projects.
+
+💠 **I’m looking for help with**: DSA and MERN stack development.
+
+💠 **All of my projects are available at**: [GitHub](https://github.com/theshobhitsingh).
+
+💠 **I regularly solve problems on**: [LeetCode](https://leetcode.com/u/shobhit_singh_leetcode/).
+
+💠 **Ask me about**: DSA and MERN.
+
+💠 **How to reach me**: theshohbhittt@gmail.com.
+
+💠 **Know about my thoughts & experiences**: [LinkedIn](https://www.linkedin.com/in/shobhit-singh-the-programmer/).
+
+💠 **Fun fact**: I love reading books.
+
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝕃𝕖𝕥' C𝕠𝕕𝕖, C𝕣𝕖𝕒𝕥𝕖 & C𝕠𝕟𝕟𝕖𝕔𝕥 🚀
