@@ -67,7 +67,7 @@
 
 💠 𝘼𝙡𝙡 𝙤𝙛 𝙢𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙖𝙩 [GIƬΉЦB] (https://github.com/theshobhitsingh)
 
-💠 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 [𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚] (https://leetcode.com/u/shobhit_singh_leetcode/) & [𝙂𝙚𝙚𝙠𝙨𝙛𝙤𝙧𝙂𝙚𝙚𝙠𝙨] (https://www.geeksforgeeks.org/user/shobhit_singh_gfg/)
+💠 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 [𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚](https://leetcode.com/u/shobhit_singh_leetcode/) & [𝙂𝙚𝙚𝙠𝙨𝙛𝙤𝙧𝙂𝙚𝙚𝙠𝙨](https://www.geeksforgeeks.org/user/shobhit_singh_gfg/)
 
 💠 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉
 
