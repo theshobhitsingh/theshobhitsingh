@@ -57,26 +57,25 @@
     <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨 </li>
 </ul> -->
 
-💠 **I’m currently working on**: Various exciting projects.
+💠 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 𝙫𝙖𝙧𝙞𝙤𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
-💠 **I’m currently learning**: ReactJS | NodeJS | ExpressJS.
+💠 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙍𝙚𝙖𝙘𝙩𝐉𝐒 | 𝙉𝙤𝙙𝙚𝐉𝐒 | 𝙀𝙭𝙥𝙧𝙚𝙨𝙨𝐉𝐒
 
-💠 **I’m looking to collaborate**: On any coding projects.
+💠 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝘾𝙤𝙙𝙀
 
-💠 **I’m looking for help with**: DSA and MERN stack development.
+💠 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙝𝙚𝙡𝙥 𝙬𝙞𝙩𝙝 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
-💠 **All of my projects are available at**: [GitHub](https://github.com/theshobhitsingh).
+💠 𝘼𝙡𝙡 𝙤𝙛 𝙢𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙖𝙩 [GIƬΉЦB](https://github.com/theshobhitsingh)
 
-💠 **I regularly solve problems on**: [LeetCode](https://leetcode.com/u/shobhit_singh_leetcode/).
+💠 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 [Lêê†ÇðÐê](https://leetcode.com/u/shobhit_singh_leetcode/)
 
-💠 **Ask me about**: DSA and MERN.
+💠 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉
 
-💠 **How to reach me**: theshohbhittt@gmail.com.
+💠 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚: theshohbhittt@gmail.com
 
-💠 **Know about my thoughts & experiences**: [LinkedIn](https://www.linkedin.com/in/shobhit-singh-the-programmer/).
+💠 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 ＆ 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 [𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗](https://www.linkedin.com/in/shobhit-singh-the-programmer/)
 
-💠 **Fun fact**: I love reading books.
-
+💠 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝕃𝕖𝕥' C𝕠𝕕𝕖, C𝕣𝕖𝕒𝕥𝕖 & C𝕠𝕟𝕟𝕖𝕔𝕥 🚀
