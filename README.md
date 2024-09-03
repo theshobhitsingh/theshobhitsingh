@@ -234,8 +234,9 @@
     </div>
 </p> -->
 
-##  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ
 
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> MY GIƬΉЦB ƧƬΛƬƧ 
+<!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ -->
 | ![theshobhitsingh GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical&rank_icon=github&border_radius=10) | ![theshobhitsingh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dracula&hide_border=false&border_radius=10) |
 | -- | -- |
 | ![theshobhitsingh Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&hide=HTML&langs_count=8&layout=compact&theme=blueberry&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) | <div style="text-align: center;"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=theshobhitsingh&icon=0&color=95" alt="visit counter" style="width: 500px; height: auto; border-radius: 10px; border: 1px solid #e1e4e8;" /></a></div> |
