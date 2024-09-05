@@ -77,7 +77,7 @@
 💠⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    𝕃𝚎𝚝'𝚜  匚𝚘𝚍𝚎,  匚𝚛𝚎𝚊𝚝𝚎  ⅋͓̽  匚𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 🚀
+    𝕃𝚎𝚝'𝚜&nbsp;&nbsp;&nbsp;匚𝚘𝚍𝚎,&nbsp;&nbsp;&nbsp;匚𝚛𝚎𝚊𝚝𝚎&nbsp;&nbsp;&nbsp;⅋͓̽&nbsp;&nbsp;&nbsp;匚𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 🚀
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/shobhit-singh-the-programmer" target="_blank" rel="noreferrer">
