@@ -249,7 +249,6 @@
 <p align="center" style="font-size: 2rem; color: #333;">
     𝚈𝚘𝚞𝚛 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚖𝚎𝚊𝚗𝚜 𝚊 𝚕𝚘𝚝! 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚊𝚗𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 🚀
 </p>
-
 <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/theshobhitsingh" style="text-decoration: none; background-color: #0e75b6; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         ᐯ丨丂丨ㄒ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爪ㄚ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ꮆ丨ㄒ卄ㄩ乃
