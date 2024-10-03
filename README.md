@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://shobhit-singh.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
+      alt="Portfolio" 
+      title="Portfolio" 
       src="https://capsule-render.vercel.app/api?type=venom&height=300&text=𝐈%20%20%20𝐚𝐦%20%20%20𝐒𝐡𝐨𝐛𝐡𝐢𝐭&fontSize=80&color=0:003366,100:000033&stroke=003366&textColor=CC3333" 
       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" 
     />
