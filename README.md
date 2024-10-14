@@ -39,7 +39,7 @@
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐀 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚, 𝐰𝐡𝐞𝐫𝐞 𝐦𝐲 𝐥𝐨𝐯𝐞 𝐟𝐨𝐫 𝐜𝐨𝐝𝐢𝐧𝐠 𝐦𝐞𝐞𝐭𝐬 𝐚 𝐝𝐞𝐞𝐩 𝐦𝐚𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐃𝐒𝐀).
     <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Welcome Image" width="500" height="600">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Welcome Image" width="500" height="300">
 </p>
 
 </h3>
@@ -47,7 +47,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Welcome Image" width="500" height="300">
 </p> -->
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Welcome Image" width="500" height="300">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Welcome Image" width="500" height="600">
 </p>
 
 <!-- <ul>
