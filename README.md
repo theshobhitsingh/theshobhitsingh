@@ -106,6 +106,9 @@
   <tr>
     <th>Ｃａｔｅｇｏｒｉｅｓ</th>
     <th>Ｓｋｉｌｌｓ</th>
+   <p align="center">
+    <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
+</p>
   </tr>
   <tr>
     <td><strong>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</strong></td>
