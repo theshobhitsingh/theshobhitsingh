@@ -23,7 +23,7 @@
 -->
 
 <p align="center">
-  <a href="https://leetcode.com/u/shobhit_singh_leetcode/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/shobhit_singh_leetcode/" target="_blank">
     <img 
       src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" 
       alt="LeetCode Card" 
