@@ -85,7 +85,7 @@
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/shobhit-singh-the-programmer" target="_blank" rel="noreferrer">
-<!--         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-singh-the-programmer" height="30" width="40" /> -->
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-singh-the-programmer" height="30" width="40" />
       <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="TechStacks" />
     </a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/shobhitsingh2103" target="_blank" rel="noreferrer">
@@ -99,9 +99,7 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
-</p>
+
 
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
