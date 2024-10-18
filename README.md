@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shobhit-singh.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://shobhit-singh.vercel.app/" target="_blank">
     <img 
       alt="Portfolio" 
       title="Portfolio" 
