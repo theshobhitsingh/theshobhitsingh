@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://shobhit-singh.vercel.app/" target="_blank">
     <img 
@@ -9,6 +8,7 @@
     />
   </a>
 </p>
+
 <!--
 <p align="center">
   <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/" target="_blank" rel="noopener noreferrer">
@@ -21,6 +21,7 @@
   </a>
 </p>
 -->
+
 <p align="center">
   <a href="https://leetcode.com/u/shobhit_singh_leetcode/" target="_blank" rel="noopener noreferrer">
     <img 
