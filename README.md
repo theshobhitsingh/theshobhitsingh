@@ -264,4 +264,4 @@
         ᐯ丨丂丨ㄒ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爪ㄚ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ꮆ丨ㄒ卄ㄩ乃
     </a>
 </div>
-![boogie](https://www.phaser.io/images/spacedancer.gif)
+<img src = "https://www.phaser.io/images/spacedancer.gif"
