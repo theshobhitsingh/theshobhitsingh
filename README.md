@@ -160,6 +160,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original" alt="GitHub" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -245,7 +246,7 @@
     </div>
 </p> -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50"> MY GIƬΉЦB ƧƬΛƬƧ 
-## <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png?f=webp" width="50"> MY GIƬΉЦB ƧƬΛƬƧ
+<!-- <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png?f=webp" width="50"> MY GIƬΉЦB ƧƬΛƬƧ --->
 <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ -->
 | ![theshobhitsingh GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical&rank_icon=github&border_radius=10) | ![theshobhitsingh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dracula&hide_border=false&border_radius=10) |
 | -- | -- |
