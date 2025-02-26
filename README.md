@@ -107,7 +107,6 @@
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
 </p> -->
 
-
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="50"> 
 </h3>
@@ -117,11 +116,11 @@
 </p>
 <table>
   <tr>
-    <th>Ｃａｔｅｇｏｒｉｅｓ</th>
-    <th>Ｓｋｉｌｌｓ</th>
+    <th>𝙲 𝚊 𝚝 𝚎 𝚐 𝚘 𝚛 𝚒 𝚎 𝚜</th>
+    <th>𝚂 𝚔 𝚒 𝚕 𝚕 𝚜</th>
   </tr>
   <tr>
-    <td><strong>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</strong></td>
+    <td><strong>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -133,7 +132,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
+    <td><strong>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -147,7 +146,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</strong></td>
+    <td><strong>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -158,7 +157,7 @@
 </td>
   </tr>
   <tr>
-    <td><strong>𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</strong></td>
+    <td><strong>𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
