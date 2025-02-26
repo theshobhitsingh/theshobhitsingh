@@ -42,11 +42,11 @@
     𝐴 𝑑𝑒𝑑𝑖𝑐𝑎𝑡𝑒𝑑 𝐹𝑢𝑙𝑙-𝑆𝑡𝑎𝑐𝑘 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐼𝑛𝑑𝑖𝑎, 𝑤ℎ𝑒𝑟𝑒 𝑚𝑦 𝑙𝑜𝑣𝑒 𝑓𝑜𝑟 𝑐𝑜𝑑𝑖𝑛𝑔 𝑚𝑒𝑒𝑡𝑠 𝑎 𝑑𝑒𝑒𝑝 𝑚𝑎𝑠𝑡𝑒𝑟𝑦 𝑜𝑓 𝐷𝑎𝑡𝑎 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 𝑎𝑛𝑑 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 (𝐷𝑆𝐴)
 </h3>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Welcome Image" width="600" height="350">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Welcome Image" width="500" height="350">
 </p>
 <p align="center">
-    <img src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://raw.githubusercontent.com/KushalVijay/KushalVijay/refs/heads/main/finallogo1.jpg)" alt="Welcome Image" width="600" height="350">
-</p>
+<!--     <img src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://raw.githubusercontent.com/KushalVijay/KushalVijay/refs/heads/main/finallogo1.jpg)" alt="Welcome Image" width="600" height="350">
+</p> -->
 <!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Welcome Image" width="500" height="600">
 </p> -->
