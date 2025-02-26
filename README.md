@@ -64,25 +64,25 @@
     <li>⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨 </li>
 </ul> -->
 
-💠🧑‍💻 𝙄 𝙖𝙢 𝙖𝙘𝙩𝙞𝙫𝙚𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙩𝙤 𝙚𝙣𝙝𝙖𝙣𝙘𝙚 𝙢𝙮 𝙨𝙠𝙞𝙡𝙡𝙨 𝙖𝙣𝙙 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙖𝙨 𝙖 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧
+💠🧑‍💻 𝖨 𝖺𝗆 𝖺𝖼𝗍𝗂𝗏𝖾𝗅𝗒 𝗐𝗈𝗋𝗄𝗂𝗇𝗀 𝗍𝗈 𝖾𝗇𝗁𝖺𝗇𝖼𝖾 𝗆𝗒 𝗌𝗄𝗂𝗅𝗅𝗌 𝖺𝗇𝖽 𝖾𝗑𝗉𝖾𝗋𝗍𝗂𝗌𝖾 𝖺𝗌 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋
 
-💠🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 ---❱ 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 ❈ 𝙀𝙭𝙥𝙧𝙚𝙨𝙨𝐉𝐒 ❈ 𝙍𝙚𝙖𝙘𝙩𝐉𝐒  ❈ 𝙉𝙤𝙙𝙚𝐉𝐒 
+💠🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 ➤ 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 ❈ 𝙀𝙭𝙥𝙧𝙚𝙨𝙨𝐉𝐒 ❈ 𝙍𝙚𝙖𝙘𝙩𝐉𝐒  ❈ 𝙉𝙤𝙙𝙚𝐉𝐒 
 
-💠🤝 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝘾𝙤𝙙𝙚
+💠🤝 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘦 𝘰𝘯 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨 𝘊𝘰𝘥𝘦
 
-💠🌍 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙝𝙚𝙡𝙥 𝙬𝙞𝙩𝙝 𝘿𝙎𝘼 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
+💠🌍 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘋𝘚𝘈 𝘢𝘯𝘥 𝘔𝘌𝘙𝘕 𝘴𝘵𝘢𝘤𝘬 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
 
-💠🚀 𝘼𝙡𝙡 𝙤𝙛 𝙢𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙖𝙩 [GIƬΉЦB](https://github.com/theshobhitsingh)
+💠🚀 𝘈𝘭𝘭 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 @ [𝑮𝒊𝒕𝑯𝒖𝒃](https://github.com/theshobhitsingh)
 
-💠♾️ 𝙄 𝙧𝙚𝙜𝙪𝙡𝙖𝙧𝙡𝙮 𝙨𝙤𝙡𝙫𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙤𝙣 [𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎](https://leetcode.com/u/shobhit_singh_leetcode/) | [𝙶𝚎𝚎𝚔𝚜𝚏𝚘𝚛𝙶𝚎𝚎𝚔𝚜](https://www.geeksforgeeks.org/user/shobhit_singh_gfg/)
+💠♾️ 𝘐 𝘳𝘦𝘨𝘶𝘭𝘢𝘳𝘭𝘺 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘰𝘯 [𝑳𝒆𝒆𝒕𝑪𝒐𝒅𝒆](https://leetcode.com/u/shobhit_singh_leetcode/) | [𝑮𝒆𝒆𝒌𝒔𝒇𝒐𝒓𝑮𝒆𝒆𝒌𝒔](https://www.geeksforgeeks.org/user/shobhit_singh_gfg/) | [𝑯𝒂𝒄𝒌𝒆𝒓𝑹𝒂𝒏𝒌](https://www.hackerrank.com/profile/shobhitsingh2103)
 
-💠💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝘿𝙚𝙫 𝙖𝙣𝙙 𝘿𝙎𝘼
+💠💬 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘋𝘦𝘷 𝘢𝘯𝘥 𝘋𝘚𝘈
 
-💠📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚: theshohbhittt@gmail.com
+💠📫 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦 𝘰𝘶𝘵 @ theshobhitt@gmail.com
 
-💠🪶 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨 ＆ 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 [𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗](https://www.linkedin.com/in/shobhit-singh-the-programmer/)
+💠🪶 𝘒𝘯𝘰𝘸 𝘢𝘣𝘰𝘶𝘵 𝘮𝘺 𝘵𝘩𝘰𝘶𝘨𝘩𝘵𝘴 &amp; 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴 [𝑳𝒊𝒏𝒌𝒆𝒅𝒊𝒏](https://www.linkedin.com/in/shobhit-singh-the-programmer/)
 
-💠⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙡𝙤𝙫𝙚 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙤𝙠𝙨
+💠⚡ 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵: 𝘐 𝘭𝘰𝘷𝘦 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘉𝘰𝘰𝘬𝘴
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝕃𝚎𝚝'𝚜&nbsp;&nbsp;&nbsp;匚𝚘𝚍𝚎,&nbsp;&nbsp;&nbsp;匚𝚛𝚎𝚊𝚝𝚎&nbsp;&nbsp;&nbsp;⅋͓̽&nbsp;&nbsp;&nbsp;匚𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 🚀
