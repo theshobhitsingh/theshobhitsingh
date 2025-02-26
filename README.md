@@ -3,7 +3,7 @@
     <img 
       alt="Portfolio" 
       title="Portfolio" 
-      src="https://capsule-render.vercel.app/api?type=venom&height=300&text=𝐈%20%20%20𝐚𝐦%20%20%20𝐒𝐡𝐨𝐛𝐡𝐢𝐭&fontSize=80&color=0:003366,100:000033&stroke=003366&textColor=CC3333" 
+      src="https://capsule-render.vercel.app/api?type=venom&height=300&text=𝑰%20%20%20𝒂𝒎%20%20%20𝑺𝒉𝒐𝒃𝒉𝒊𝒕&fontSize=80&color=0:003366,100:000033&stroke=003366&textColor=CC3333" 
       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" 
     />
   </a>
