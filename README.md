@@ -8,6 +8,7 @@
     />
   </a>
 </p>
+
 <!--
 <p align="center">
   <a href="https://www.linkedin.com/in/shobhit-singh-the-programmer/" target="_blank" rel="noopener noreferrer">
@@ -27,7 +28,7 @@
       src="https://leetcard.jacoblin.cool/shobhit_singh_leetcode?theme=dark&font=Nunito&ext=heatmap" 
       alt="LeetCode Card" 
       width="700" 
-      height="3500" 
+      height="350" 
       style="border: 10px solid #00FFFF; border-radius: 10px;" 
     />
   </a>
