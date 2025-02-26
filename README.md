@@ -247,7 +247,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     </div>
 </p> -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50"> MY GIƬΉＵB ƧƬΛƬƧ 𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50">𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 <!-- <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png?f=webp" width="50"> MY GIƬΉЦB ƧƬΛƬƧ --->
 <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ -->
 | ![theshobhitsingh GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshobhitsingh&show_icons=true&theme=radical&rank_icon=github&border_radius=10) | ![theshobhitsingh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshobhitsingh&theme=dracula&hide_border=false&border_radius=10) |
@@ -258,10 +258,10 @@
   <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Visitors" />
 </p> -->
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
-   𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
+   Ŧ𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖞 p𝖗𝖔𝖋𝖎𝖑𝖊
 </h3>
 <p align="center" style="font-size: 2rem; color: #333;">
-    𝚈𝚘𝚞𝚛 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚖𝚎𝚊𝚗𝚜 𝚊 𝚕𝚘𝚝! 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚊𝚗𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 🚀
+    ¥𝓞𝓾𝓻 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 𝓶𝓮𝓪𝓷𝓼  𝓪 𝓵𝓸𝓽! 𝐹𝓮𝓮𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓔𝔁𝓹𝓵𝓸𝓻𝓮 & 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
 </p>
 <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/theshobhitsingh" style="text-decoration: none; background-color: #0e75b6; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
