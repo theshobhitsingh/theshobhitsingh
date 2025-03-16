@@ -255,9 +255,9 @@
 | ![theshobhitsingh Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshobhitsingh&hide=HTML&langs_count=8&layout=compact&theme=blueberry&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) | <div style="text-align: center;"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=theshobhitsingh&icon=0&color=95" alt="visit counter" style="width: 500px; height: auto; border-radius: 10px; border: 1px solid #e1e4e8;" /></a></div> |
 | | |
 
-<!-- <p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=theshobhitsingh&label=Profile%20Views&color=003366&style=flat-square" alt="Visitors" />
-</p> -->
+</p>
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
    Ŧ𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖞 p𝖗𝖔𝖋𝖎𝖑𝖊
 </h3>
