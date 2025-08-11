@@ -41,6 +41,9 @@
       ✌𒐕   卂爪   丂卄ㄖ乃卄丨ㄒ✌
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> -->
 </h1>
+      
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="TechStacks" />
+      
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐴 𝑑𝑒𝑑𝑖𝑐𝑎𝑡𝑒𝑑 𝐹𝑢𝑙𝑙-𝑆𝑡𝑎𝑐𝑘 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐼𝑛𝑑𝑖𝑎, 𝑤ℎ𝑒𝑟𝑒 𝑚𝑦 𝑙𝑜𝑣𝑒 𝑓𝑜𝑟 𝑐𝑜𝑑𝑖𝑛𝑔 𝑚𝑒𝑒𝑡𝑠 𝑎 𝑑𝑒𝑒𝑝 𝑚𝑎𝑠𝑡𝑒𝑟𝑦 𝑜𝑓 𝐷𝑎𝑡𝑎 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 𝑎𝑛𝑑 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 (𝐷𝑆𝐴)
 </h3>
@@ -107,9 +110,9 @@
 </p>
 <!--       <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="TechStacks" /> -->
 
- <p align="center">
+<!-- <p align="center">
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
-</p>
+</p> -->
 
 <h3 align="left" style="background: linear-gradient(to right, #d9a2d6, #e0b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
    𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="50"> 
