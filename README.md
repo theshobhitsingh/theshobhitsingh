@@ -118,9 +118,10 @@
    𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="50"> 
 </h3>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Welcome Image" width="300" height="300">
-</p>
+</p>-->
+
 <table>
   <tr>
     <th>𝙲 𝚊 𝚝 𝚎 𝚐 𝚘 𝚛 𝚒 𝚎 𝚜</th>
@@ -272,7 +273,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50">𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50"> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <table>
   <tr>
