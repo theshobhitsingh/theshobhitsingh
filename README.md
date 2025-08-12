@@ -38,7 +38,7 @@
 <h1 align="center" style="background: linear-gradient(to right, #4169e1, #e30022); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚛s/><br>
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> --->
-      { 𒐕   卂爪   丂卄ㄖ乃卄丨ㄒ }
+      {   𒐕   卂爪   丂卄ㄖ乃卄丨ㄒ   }
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> -->
 </h1>
       
@@ -109,8 +109,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shobhit_singh_gfg" height="30" width="40" />
     </a>
 </p>
-<!--       <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="TechStacks" /> -->
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="TechStacks" /> -->
 <!-- <p align="center">
     <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Animated Banner" width="2000" />
 </p> -->
@@ -179,6 +178,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
+  <tr>
+  <td><strong>𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬</strong></td>
+  <td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-learn" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+</tr>
 </table>
 
 <!-- <p align="left">
