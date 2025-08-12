@@ -314,11 +314,8 @@
 <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" style="vertical-align: middle; margin-left: 5px;"/> MY GIƬΉЦB ƧƬΛƬƧ -->
 
 <h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
-   Ŧ𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖞 p𝖗𝖔𝖋𝖎𝖑𝖊
+   ◦•●❤♡ Thanks for visiting My Profile! Feel Free to Connect ♡❤●•◦
 </h3>
-<p align="center" style="font-size: 2rem; color: #333;">
-    ¥𝓞𝓾𝓻 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 𝓶𝓮𝓪𝓷𝓼  𝓪 𝓵𝓸𝓽! 𝐹𝓮𝓮𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓔𝔁𝓹𝓵𝓸𝓻𝓮 & 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
-</p>
 <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/theshobhitsingh" style="text-decoration: none; background-color: #0e75b6; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         ᐯ丨丂丨ㄒ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爪ㄚ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ꮆ丨ㄒ卄ㄩ乃
