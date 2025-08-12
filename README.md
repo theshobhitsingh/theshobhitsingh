@@ -46,6 +46,7 @@
       
 <h3 align="center" style="background: linear-gradient(to right, #348AC7, #7474BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     𝐴 𝑑𝑒𝑑𝑖𝑐𝑎𝑡𝑒𝑑 𝐹𝑢𝑙𝑙-𝑆𝑡𝑎𝑐𝑘 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐼𝑛𝑑𝑖𝑎, 𝑤ℎ𝑒𝑟𝑒 𝑚𝑦 𝑙𝑜𝑣𝑒 𝑓𝑜𝑟 𝑐𝑜𝑑𝑖𝑛𝑔 𝑚𝑒𝑒𝑡𝑠 𝑎 𝑑𝑒𝑒𝑝 𝑚𝑎𝑠𝑡𝑒𝑟𝑦 𝑜𝑓 𝐷𝑎𝑡𝑎 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 𝑎𝑛𝑑 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 (𝐷𝑆𝐴)
+    𝙰 𝙷𝚞𝚖𝚊𝚗 𝚍𝚎𝚎𝚙𝚕𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜 𝚊𝚋𝚘𝚞𝚝 𝚝𝚑𝚎 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜 & 𝚒𝚝𝚜 𝙻𝚒𝚖𝚒𝚝𝚕𝚎𝚜𝚜 𝙿𝚘𝚜𝚜𝚒𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜
 </h3>
       
 <!-- <p align="center">
